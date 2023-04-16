@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /home/css
+Disallow: /home/js
+Disallow: /home/resume.pdf
+Disallow: /projects/
+Disallow: /vendor/
